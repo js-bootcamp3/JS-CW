@@ -1,4 +1,3 @@
-import { getUrl, fetchGames } from './fetch.js';
+import { fetchGames } from './fetch.js';
 
-getUrl()
 fetchGames();
