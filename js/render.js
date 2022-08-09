@@ -9,6 +9,8 @@
 // Japan: "Unreleased"
 // NorthAmerica: "April 12, 2018"
 const container = document.getElementById("data")
+const genre = document.getElementById("genre").value
+
 export function displayData(data) {
   let result = ''
 
